@@ -1,0 +1,2 @@
+# Build-Your-Own-Anti-Corona-Smart-Social-Distancing-Glasses-using-Arduino
+In this online workshop, we'll show you how to quickly build a simple Smart Social-Distancing Glasses - an item that is very useful to prevent the risk of contracting Coronavirus given the prevailing situation! Our device will use an HC-SR04 Ultrasound Sensor/PIR sensor and a buzzer to help maintain a safe distance between people when they are in malls/outside. All parts can be easily purchased online at a very minimal cost.
